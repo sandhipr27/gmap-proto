@@ -39,14 +39,6 @@ An interactive, real-time web dashboard that combines **Mapbox**, **OpenWeather*
 - 🔗 **TomTom Chennai Traffic Index**  
   - One-click external traffic reference for deeper analysis
 
-<br>
-
-## 📸 Screenshots
-
-(Add screenshots here if available – use the GitHub `![]()` format)
-
-<br>
-
 Replace your_mapbox_access_token with your Mapbox API Key
 
 Replace your_openweather_keytoken with your OpenWeatherMap API Key

@@ -2,7 +2,7 @@
 A Simple Project that provides Navigation with Real Time Weather and Incident Alerts
 # 🚦 GoogleProto — Smart Map with Live Traffic, ETA & Weather
 
-An interactive, real-time web dashboard that combines **Mapbox**, **OpenWeather**, and live geolocation to provide:
+An interactive, real-time web dashboard that combines Mapbox, OpenWeather, and live geolocation to provide:
 
 - 🗺️ Dynamic Maps with Driving Directions  
 - 🌤️ Real-time Weather for Start & Destination  

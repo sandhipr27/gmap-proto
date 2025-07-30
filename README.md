@@ -39,6 +39,16 @@ An interactive, real-time web dashboard that combines Mapbox, OpenWeather, and l
 - 🔗 **TomTom Chennai Traffic Index**  
   - One-click external traffic reference for deeper analysis
 
-Replace your_mapbox_access_token with your Mapbox API Key
+- Replace your_mapbox_access_token with your Mapbox API Key
 
-Replace your_openweather_keytoken with your OpenWeatherMap API Key
+- Replace your_openweather_keytoken with your OpenWeatherMap API Key
+
+<br>
+
+As of now, the webpage wont work. Because the API tokens from two websites named "Mapbox" and "OpenWeatherMap" is required. So, create an account there and get yourself a API Token and replace the Keytoken with the Program lines where it specifies to tell "replace with your token"
+
+Finally, The Project starts to work!!
+
+<br>
+
+
